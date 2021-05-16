@@ -295,17 +295,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii.txt"
   },
   {
-    "slug": "portraits-iv",
-    "title": "Portraits IV",
-    "first_line": "i walked the boulevard",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "i walked the boulevard\n\ni saw a dirty child\nskating on noisy wheels of joy\n\npathetic dress fluttering\n\n\nbehind her a mothermonster\nwith red grumbling face\n\ncluttered in pursuit\n\npleasantly elephantine\n\n\nwhile nearby the father\n\na thick cheerful man\n\nwith majestic bulbous lips\nand forlorn piggish hands\n\n\njoked to a girlish whore\n\nwith buy rhythmic mouth\nand silly purple eyelids\n\nof how she was with child",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.txt"
-  },
-  {
     "slug": "portraits-ix",
     "title": "Portraits IX",
     "first_line": "spring omnipotent goddess thou dost",
@@ -315,6 +304,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix.txt"
+  },
+  {
+    "slug": "portraits-iv",
+    "title": "Portraits IV",
+    "first_line": "i walked the boulevard",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "i walked the boulevard\n\ni saw a dirty child\nskating on noisy wheels of joy\n\npathetic dress fluttering\n\n\nbehind her a mothermonster\nwith red grumbling face\n\ncluttered in pursuit\n\npleasantly elephantine\n\n\nwhile nearby the father\n\na thick cheerful man\n\nwith majestic bulbous lips\nand forlorn piggish hands\n\n\njoked to a girlish whore\n\nwith buy rhythmic mouth\nand silly purple eyelids\n\nof how she was with child",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.txt"
   },
   {
     "slug": "portraits-v",
@@ -481,17 +481,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iii.txt"
   },
   {
-    "slug": "songs-iv",
-    "title": "Songs IV",
-    "first_line": "All in green went my love riding",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "All in green went my love riding\non a great horse of gold\ninto the silver dawn.\n\nfour lean hounds crouched low and smiling\nthe merry deer ran before.\n\nFleeter be they than dappled dreams\nthe swift sweet deer\nthe red rare deer.\n\nFour red roebuck at a white water\nthe cruel bugle sang before.\n\nHorn at hip went my love riding\nriding the echo down\ninto the silver dawn.\n\nfour lean hounds crouched low and smiling\nthe level meadows ran before.\n\nSofter be they than slippered sleep\nthe lean lithe deer\nthe fleet flown deer.\n\nFour fleet does at a gold valley\nthe famished arrow sang before.\n\nBow at belt went my love riding\nriding the mountain down\ninto the silver dawn.\n\nfour lean houds crouched low and smiling\nthe sheer peaks ran before.\n\nPaler be they than daunting death\nthe sleek slim deer\nthe tall tense deer.\n\nFour tall stags at a green mountain\nthe lucky hunter sang before.\n\nAll in green went my love riding\non a great horse of gold\ninto the silver dawn.\n\nfour lean hounds crouched low and smiling\nmy heart fell dead before.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv.txt"
-  },
-  {
     "slug": "songs-v",
     "title": "Songs V",
     "first_line": "Doll’s boy ’s asleep",
@@ -501,6 +490,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v.txt"
+  },
+  {
+    "slug": "songs-iv",
+    "title": "Songs IV",
+    "first_line": "All in green went my love riding",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "All in green went my love riding\non a great horse of gold\ninto the silver dawn.\n\nfour lean hounds crouched low and smiling\nthe merry deer ran before.\n\nFleeter be they than dappled dreams\nthe swift sweet deer\nthe red rare deer.\n\nFour red roebuck at a white water\nthe cruel bugle sang before.\n\nHorn at hip went my love riding\nriding the echo down\ninto the silver dawn.\n\nfour lean hounds crouched low and smiling\nthe level meadows ran before.\n\nSofter be they than slippered sleep\nthe lean lithe deer\nthe fleet flown deer.\n\nFour fleet does at a gold valley\nthe famished arrow sang before.\n\nBow at belt went my love riding\nriding the mountain down\ninto the silver dawn.\n\nfour lean houds crouched low and smiling\nthe sheer peaks ran before.\n\nPaler be they than daunting death\nthe sleek slim deer\nthe tall tense deer.\n\nFour tall stags at a green mountain\nthe lucky hunter sang before.\n\nAll in green went my love riding\non a great horse of gold\ninto the silver dawn.\n\nfour lean hounds crouched low and smiling\nmy heart fell dead before.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv.txt"
   },
   {
     "slug": "songs-vi",
@@ -591,17 +591,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii.txt"
   },
   {
-    "slug": "sonnets-realities-iv",
-    "title": "Sonnets—Realities IV",
-    "first_line": "when you rang at Dick Mid’s Place",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "when you rang at Dick Mid’s Place\nthe madam was a bulb stuck in the door.\na fang of wincing gas showed how\nhair,in two fists of shrill colour,\nclutched the dull volume of her tumbling face\nscribbled with a big grin.   her sow-\neyes clicking mischief from thick lids.\nthe chunklike nose on which always the four\ntablets of perspiration erectly sitting.\n—If they knew you at Dick Mid’s\nthe three trickling chins began to traipse\ninto the cheeks “eet smeestaire steevensun\nkum een, dare ease Bet,an Leelee,an dee beeg wun”\nher handless wrists did gooey severe shapes.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iv/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iv.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iv.txt"
-  },
-  {
     "slug": "sonnets-realities-iii",
     "title": "Sonnets—Realities III",
     "first_line": "ladies and gentlemen this little girl",
@@ -611,6 +600,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iii.txt"
+  },
+  {
+    "slug": "sonnets-realities-iv",
+    "title": "Sonnets—Realities IV",
+    "first_line": "when you rang at Dick Mid’s Place",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "when you rang at Dick Mid’s Place\nthe madam was a bulb stuck in the door.\na fang of wincing gas showed how\nhair,in two fists of shrill colour,\nclutched the dull volume of her tumbling face\nscribbled with a big grin.   her sow-\neyes clicking mischief from thick lids.\nthe chunklike nose on which always the four\ntablets of perspiration erectly sitting.\n—If they knew you at Dick Mid’s\nthe three trickling chins began to traipse\ninto the cheeks “eet smeestaire steevensun\nkum een, dare ease Bet,an Leelee,an dee beeg wun”\nher handless wrists did gooey severe shapes.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iv/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iv.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iv.txt"
   },
   {
     "slug": "sonnets-realities-v",
@@ -1086,6 +1086,17 @@
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-xviii.txt"
   },
   {
+    "slug": "sonnets-realities-xx",
+    "title": "Sonnets—Realities XX",
+    "first_line": "Dick Mid’s large bluish face without eyebrows",
+    "book_slug": "and",
+    "book_title": "&",
+    "text": "Dick Mid’s large bluish face without eyebrows\n\nsits in the kitchen nights and chews a two-bit\ncigar\n      waiting for the bulls to pull his joint.\nJimmie was a dude.   Dark hair and nice hands.\n\nwith a little eye that rolled and made its point\n\nJimmie’s sister worked for Dick.   And had some rows\nover percent.   The gang got shot up twice,it\noperated in the hundred ands\n\nAll the chips would kid Jimmie to give them a kiss\nbut Jimmie lived regular. stewed three times a week.\nand slept twice a week with a big toothless girl\nin Yonkers.\n           Dick Mid’s green large three teeth leak\n\nsmoke:remembering,two pink big lips curl....\n\nhow Jimmie was framed and got his",
+    "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xx/",
+    "json_url": "https://cummings.ee/book/and/poem/sonnets-realities-xx.json",
+    "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-xx.txt"
+  },
+  {
     "slug": "sonnets-realities-xxi",
     "title": "Sonnets—Realities XXI",
     "first_line": "twentyseven bums give a prostitute the once",
@@ -1284,17 +1295,6 @@
     "txt_url": "https://cummings.ee/book/xli-poems/poem/songs-iv.txt"
   },
   {
-    "slug": "songs-ix",
-    "title": "Songs IX",
-    "first_line": "Lady of Silence",
-    "book_slug": "xli-poems",
-    "book_title": "XLI Poems",
-    "text": "Lady of Silence\nfrom the winsome cage of\nthy body\nrose\n     through the sensible\nnight\na\nquick bird\n\n(tenderly upon\nthe dark’s prodigious face\nthy\nvoice\n      scattering perfume-gifted\nwings\nsuddenly escorts\nwith feet\nsun-sheer\n\nthe smarting beauty of dawn)",
-    "html_url": "https://cummings.ee/book/xli-poems/poem/songs-ix/",
-    "json_url": "https://cummings.ee/book/xli-poems/poem/songs-ix.json",
-    "txt_url": "https://cummings.ee/book/xli-poems/poem/songs-ix.txt"
-  },
-  {
     "slug": "songs-v",
     "title": "Songs V",
     "first_line": "Where’s Madge then,",
@@ -1304,6 +1304,17 @@
     "html_url": "https://cummings.ee/book/xli-poems/poem/songs-v/",
     "json_url": "https://cummings.ee/book/xli-poems/poem/songs-v.json",
     "txt_url": "https://cummings.ee/book/xli-poems/poem/songs-v.txt"
+  },
+  {
+    "slug": "songs-ix",
+    "title": "Songs IX",
+    "first_line": "Lady of Silence",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "Lady of Silence\nfrom the winsome cage of\nthy body\nrose\n     through the sensible\nnight\na\nquick bird\n\n(tenderly upon\nthe dark’s prodigious face\nthy\nvoice\n      scattering perfume-gifted\nwings\nsuddenly escorts\nwith feet\nsun-sheer\n\nthe smarting beauty of dawn)",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/songs-ix/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/songs-ix.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/songs-ix.txt"
   },
   {
     "slug": "songs-vi",
@@ -1471,17 +1482,6 @@
     "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-viii.txt"
   },
   {
-    "slug": "sonnets-x",
-    "title": "Sonnets X",
-    "first_line": "I have seen her stealthily frail",
-    "book_slug": "xli-poems",
-    "book_title": "XLI Poems",
-    "text": "I have seen her stealthily frail\nflower walking with its fellows in the death\nof light,against whose enormous curve of flesh\nexactly cubes of tiny fragrance try;\ni have watched certain petals rapidly wish\nin the corners of her youth;whom,fiercely shy\nand gently brutal,the prettiest wrath\nof blossoms dishevelling made a pale\nfracas upon the accurate moon....\nAcross the important gardens her body\nwill come toward me with its hurting sexual smell\nof lilies....beyond night’s silken immense swoon\nthe moon is like a floating silver hell\na song of adolescent ivory.",
-    "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-x/",
-    "json_url": "https://cummings.ee/book/xli-poems/poem/sonnets-x.json",
-    "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-x.txt"
-  },
-  {
     "slug": "sonnets-xi",
     "title": "Sonnets XI",
     "first_line": "who’s most afraid of death?thou\n                                art of him",
@@ -1491,6 +1491,17 @@
     "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xi/",
     "json_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xi.json",
     "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xi.txt"
+  },
+  {
+    "slug": "sonnets-x",
+    "title": "Sonnets X",
+    "first_line": "I have seen her stealthily frail",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "I have seen her stealthily frail\nflower walking with its fellows in the death\nof light,against whose enormous curve of flesh\nexactly cubes of tiny fragrance try;\ni have watched certain petals rapidly wish\nin the corners of her youth;whom,fiercely shy\nand gently brutal,the prettiest wrath\nof blossoms dishevelling made a pale\nfracas upon the accurate moon....\nAcross the important gardens her body\nwill come toward me with its hurting sexual smell\nof lilies....beyond night’s silken immense swoon\nthe moon is like a floating silver hell\na song of adolescent ivory.",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-x/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/sonnets-x.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-x.txt"
   },
   {
     "slug": "sonnets-xii",
