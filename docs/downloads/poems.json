@@ -99,17 +99,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i.txt"
   },
   {
-    "slug": "chansons-innocentes-ii",
-    "title": "Chansons Innocentes II",
-    "first_line": "hist    whist",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "hist    whist\nlittle ghostthings\ntip-toe\ntwinkle-toe\n\nlittle twitchy\nwitches and tingling\ngoblins\nhob-a-nob    hob-a-nob\n\nlittle hoppy happy\ntoad in tweeds\ntweeds\nlittle itchy mousies\n\nwith scuttling\neyes    rustle and run    and\nhidehidehide\nwhisk\n\nwhisk   look out for the old woman\nwith the wart on her nose\nwhat she'll do to yer\nnobody knows\n\nfor she knows the devil   ooch\nthe devil    ouch\nthe devil\nach      the great\n\ngreen\ndancing\ndevil\ndevil\n\ndevil\ndevil\n\n        wheeEEE",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii.txt"
-  },
-  {
     "slug": "chansons-innocentes-iii",
     "title": "Chansons Innocentes III",
     "first_line": "Tumbling-hair\n              picker of buttercups\n                                   violets",
@@ -119,6 +108,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-iii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-iii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-iii.txt"
+  },
+  {
+    "slug": "chansons-innocentes-ii",
+    "title": "Chansons Innocentes II",
+    "first_line": "hist    whist",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "hist    whist\nlittle ghostthings\ntip-toe\ntwinkle-toe\n\nlittle twitchy\nwitches and tingling\ngoblins\nhob-a-nob    hob-a-nob\n\nlittle hoppy happy\ntoad in tweeds\ntweeds\nlittle itchy mousies\n\nwith scuttling\neyes    rustle and run    and\nhidehidehide\nwhisk\n\nwhisk   look out for the old woman\nwith the wart on her nose\nwhat she'll do to yer\nnobody knows\n\nfor she knows the devil   ooch\nthe devil    ouch\nthe devil\nach      the great\n\ngreen\ndancing\ndevil\ndevil\n\ndevil\ndevil\n\n        wheeEEE",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii.txt"
   },
   {
     "slug": "epithalamion",
@@ -306,17 +306,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix.txt"
   },
   {
-    "slug": "portraits-vi",
-    "title": "Portraits VI",
-    "first_line": "but the other",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "but the other\nday i was passing a certain\nfate,     rain\nfell(as it will\n\nin spring)\nropes\nof silver gliding from sunny\nthunder into freshness\n\nas if god’s flowers were\npulling upon bells of\ngold    i looked\nup\n\nand\nthought to myself     Death\nand will You with\nelaborate fingers possibly touch\n\nthe pink hollyhock existence whose\npansy eyes look from morning till\nnight into the street\nunchangingly      the always\n\nold lady always sitting in her\ngentle window like\na reminiscence\npartaken\n\nsoftly    at whose gate smile\nalways the chosen\nflowers of reminding",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vi/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vi.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vi.txt"
-  },
-  {
     "slug": "portraits-v",
     "title": "Portraits V",
     "first_line": "the young",
@@ -326,6 +315,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-v/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-v.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-v.txt"
+  },
+  {
+    "slug": "portraits-vi",
+    "title": "Portraits VI",
+    "first_line": "but the other",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "but the other\nday i was passing a certain\nfate,     rain\nfell(as it will\n\nin spring)\nropes\nof silver gliding from sunny\nthunder into freshness\n\nas if god’s flowers were\npulling upon bells of\ngold    i looked\nup\n\nand\nthought to myself     Death\nand will You with\nelaborate fingers possibly touch\n\nthe pink hollyhock existence whose\npansy eyes look from morning till\nnight into the street\nunchangingly      the always\n\nold lady always sitting in her\ngentle window like\na reminiscence\npartaken\n\nsoftly    at whose gate smile\nalways the chosen\nflowers of reminding",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vi/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vi.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vi.txt"
   },
   {
     "slug": "portraits-vii",
@@ -701,17 +701,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.txt"
   },
   {
-    "slug": "portraits-ii",
-    "title": "Portraits II",
-    "first_line": "of evident invisibles",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful suppression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
-  },
-  {
     "slug": "portraits-i",
     "title": "Portraits I",
     "first_line": "the",
@@ -721,6 +710,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
+  },
+  {
+    "slug": "portraits-ii",
+    "title": "Portraits II",
+    "first_line": "of evident invisibles",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful suppression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
   },
   {
     "slug": "and-seven-poems-i",
@@ -1007,6 +1007,17 @@
     "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xix/",
     "json_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xix.json",
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xix.txt"
+  },
+  {
+    "slug": "sonnets-actualities-xvii",
+    "title": "Sonnets—Actualities XVII",
+    "first_line": "(let us tremble)a personal radiance sits",
+    "book_slug": "and",
+    "book_title": "&",
+    "text": "(let us tremble)a personal radiance sits\nhideously upon the trafficking hum\nof dusk\n        each street takes of shadowy\nlight the drollsnowing delirium\n\n(we do not speak!)\n                   tumbled hushingly bits\nof downward flower flowing without or cease\n\nor time;a naming stealth of ectasy\nmeans,like a girl lasciviously frail,\n                                     peace\n\n(dreaming is better)\n\n                    murdering coolness slowly\nin peopling places seeks play:withs of star\nlink clauses of warmth\n                      (after dream who knows?)\na blackish cat and a bluish cat are\n\neyeing,as with almost melancholy\ndelicacy night gargles windows.",
+    "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xvii/",
+    "json_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xvii.json",
+    "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xvii.txt"
   },
   {
     "slug": "sonnets-actualities-xviii",
@@ -1361,17 +1372,6 @@
     "txt_url": "https://cummings.ee/book/xli-poems/poem/la-guerre-ii.txt"
   },
   {
-    "slug": "portraits-ii",
-    "title": "Portraits II",
-    "first_line": "one April dusk the",
-    "book_slug": "xli-poems",
-    "book_title": "XLI Poems",
-    "text": "one April dusk the\nsallow street-lamps were turning\nsnowy against a west of robin’s egg blue when\ni entered a mad street whose\n\nmouth dripped with slavver of\nspring\nchased two flights of squirrel-stairs into\na mid-victorian attic which is known as\nO ΠΑΡΘΕΝΩΝ\n           and having ordered\nyaoorti from\nNicho’\nsettled my feet on the \n\nceiling inhaling six divine inches\nof Haremina        in\nthe thick of the snick-\ner of cards and smack of back-\n\ngammon boards i was aware of an entirely\ndirty circle of habitués their\nfaces like cigarettebutts, chewed\nwith disdain,       lead by a Jumpy\n\nTramp who played each\ncard as if it were a thunderbolt red-\nhot      peeling\noff huge slabs of a fuzzy\n\nlanguage with the aid of an exclamatory\ntooth-pick\nAnd who may that\nbe i said exhaling into\n\neternity as Nicho’ laid\nbefore me bread\nmore downy than street-lamps\nupon an almostclean\n\nplate\n“Achilles” \nsaid\nNicho’\n\n“and did you perhaps wish also shishkabob?”",
-    "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-ii/",
-    "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-ii.json",
-    "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-ii.txt"
-  },
-  {
     "slug": "portraits-i",
     "title": "Portraits I",
     "first_line": "conversation with my friend is particularly",
@@ -1381,6 +1381,17 @@
     "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-i/",
     "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-i.json",
     "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-i.txt"
+  },
+  {
+    "slug": "portraits-ii",
+    "title": "Portraits II",
+    "first_line": "one April dusk the",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "one April dusk the\nsallow street-lamps were turning\nsnowy against a west of robin’s egg blue when\ni entered a mad street whose\n\nmouth dripped with slavver of\nspring\nchased two flights of squirrel-stairs into\na mid-victorian attic which is known as\nO ΠΑΡΘΕΝΩΝ\n           and having ordered\nyaoorti from\nNicho’\nsettled my feet on the \n\nceiling inhaling six divine inches\nof Haremina        in\nthe thick of the snick-\ner of cards and smack of back-\n\ngammon boards i was aware of an entirely\ndirty circle of habitués their\nfaces like cigarettebutts, chewed\nwith disdain,       lead by a Jumpy\n\nTramp who played each\ncard as if it were a thunderbolt red-\nhot      peeling\noff huge slabs of a fuzzy\n\nlanguage with the aid of an exclamatory\ntooth-pick\nAnd who may that\nbe i said exhaling into\n\neternity as Nicho’ laid\nbefore me bread\nmore downy than street-lamps\nupon an almostclean\n\nplate\n“Achilles” \nsaid\nNicho’\n\n“and did you perhaps wish also shishkabob?”",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-ii/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-ii.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-ii.txt"
   },
   {
     "slug": "portraits-iii",
