@@ -88,17 +88,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-viii.txt"
   },
   {
-    "slug": "chansons-innocentes-i",
-    "title": "Chansons Innocentes I",
-    "first_line": "in Just-",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "in Just-\nspring     when the world is mud-\nluscious the little\nlame balloonman\n\nwhistles    far    and wee\n\nand eddieandbill come\nrunning from marbles and\npiracies and it’s\nspring\n\nwhen the world is puddle-wonderful\n\nthe queer\nold balloonman whistles\nfar    and    wee\nand bettyandisbel come dancing\n\nfrom hop-scotch and jump-rope and\n\nit’s\nspring\nand\n   the\n\n         goat-footed\n\nballoonMan    whistles\nfar\nand\nwee",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i.txt"
-  },
-  {
     "slug": "chansons-innocentes-ii",
     "title": "Chansons Innocentes II",
     "first_line": "hist    whist",
@@ -108,6 +97,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii.txt"
+  },
+  {
+    "slug": "chansons-innocentes-i",
+    "title": "Chansons Innocentes I",
+    "first_line": "in Just-",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "in Just-\nspring     when the world is mud-\nluscious the little\nlame balloonman\n\nwhistles    far    and wee\n\nand eddieandbill come\nrunning from marbles and\npiracies and it’s\nspring\n\nwhen the world is puddle-wonderful\n\nthe queer\nold balloonman whistles\nfar    and    wee\nand bettyandisbel come dancing\n\nfrom hop-scotch and jump-rope and\n\nit’s\nspring\nand\n   the\n\n         goat-footed\n\nballoonMan    whistles\nfar\nand\nwee",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i.txt"
   },
   {
     "slug": "chansons-innocentes-iii",
@@ -186,17 +186,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-v.txt"
   },
   {
-    "slug": "la-guerre-i",
-    "title": "La Guerre I",
-    "first_line": "the bigness of cannon",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "the bigness of cannon\nis skilful,\n\nbut i have seen\ndeath’s clever enormous voice\nwhich hides in a fragility\nof poppies....\n\ni say that sometimes\non these long talkative animals\nare laid fists of huger silence.\n\nI have seen all the silence\nfilled with vivid noiseless boys\n\nat Roupy\ni have seen\nbetween barrages,\n\nthe night utter ripe unspeaking girls.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i.txt"
-  },
-  {
     "slug": "la-guerre-ii",
     "title": "La Guerre II",
     "first_line": "O sweet spontaneous",
@@ -206,6 +195,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-ii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-ii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-ii.txt"
+  },
+  {
+    "slug": "la-guerre-i",
+    "title": "La Guerre I",
+    "first_line": "the bigness of cannon",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "the bigness of cannon\nis skilful,\n\nbut i have seen\ndeath’s clever enormous voice\nwhich hides in a fragility\nof poppies....\n\ni say that sometimes\non these long talkative animals\nare laid fists of huger silence.\n\nI have seen all the silence\nfilled with vivid noiseless boys\n\nat Roupy\ni have seen\nbetween barrages,\n\nthe night utter ripe unspeaking girls.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i.txt"
   },
   {
     "slug": "of-nicolette",
@@ -284,28 +284,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.txt"
   },
   {
-    "slug": "portraits-i",
-    "title": "Portraits I",
-    "first_line": "the",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "the\nnimble\nheat\nhad\n\nlong on a certain\ntaut precarious\nholiday\nfrighteningly\n\nperformed\nand\nat tremont and bromfield i\npaused a moment because\n\non the frying\ncurb the\nquiet face\nlay\n\nwhich had been dorothy\nand once\npermitted\nme for\n\ntwenty\niron\nmen\nher common purple\n\nsoul\nthe absurd eyelids sulked\nenormous\nsobs puckered the foolish\n\nbreasts the\ndroll\nmouth\nwilted\n\nand not old,harry,a\nwoman in the crowd\nwhinnied and a man squeezing her\nwaist said\n\nthe cop ’s rung for the\nwagon but as i was\nlifting the horror\nof her toylike\n\nhead and vainly\ntried to\ncatch on funny\nhand opening the hard great\n\neyes to noone in particular she\ngasped almost\nloudly\ni’m\n\nso\ndrunG\n\nk,dear",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
-  },
-  {
-    "slug": "portraits-ii",
-    "title": "Portraits II",
-    "first_line": "of evident invisibles",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful suppression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
-  },
-  {
     "slug": "portraits-iii",
     "title": "Portraits III",
     "first_line": "between nose-red gross",
@@ -361,17 +339,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vi.txt"
   },
   {
-    "slug": "portraits-vii",
-    "title": "Portraits VII",
-    "first_line": "the rose",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "the rose\nis dying the\nlips of an old man murder\n\nthe petals\nhush\nmysteriously\ninvisible mourners move\nwith prose faces and sobbing,garments\nThe symbol of the rose\n\nmotionless\nwith grieving feet and\nwings\nmounts\n\nagainst the margins of steep song\na stallion sweetness     ,the\n\nlips of an old man murder\n\nthe petals.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii.txt"
-  },
-  {
     "slug": "portraits-viii",
     "title": "Portraits VIII",
     "first_line": "Buffalo Bill ’s",
@@ -381,6 +348,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii.txt"
+  },
+  {
+    "slug": "portraits-vii",
+    "title": "Portraits VII",
+    "first_line": "the rose",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "the rose\nis dying the\nlips of an old man murder\n\nthe petals\nhush\nmysteriously\ninvisible mourners move\nwith prose faces and sobbing,garments\nThe symbol of the rose\n\nmotionless\nwith grieving feet and\nwings\nmounts\n\nagainst the margins of steep song\na stallion sweetness     ,the\n\nlips of an old man murder\n\nthe petals.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii.txt"
   },
   {
     "slug": "portraits-x",
@@ -723,6 +701,28 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi.txt"
   },
   {
+    "slug": "portraits-ii",
+    "title": "Portraits II",
+    "first_line": "of evident invisibles",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful suppression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
+  },
+  {
+    "slug": "portraits-i",
+    "title": "Portraits I",
+    "first_line": "the",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "the\nnimble\nheat\nhad\n\nlong on a certain\ntaut precarious\nholiday\nfrighteningly\n\nperformed\nand\nat tremont and bromfield i\npaused a moment because\n\non the frying\ncurb the\nquiet face\nlay\n\nwhich had been dorothy\nand once\npermitted\nme for\n\ntwenty\niron\nmen\nher common purple\n\nsoul\nthe absurd eyelids sulked\nenormous\nsobs puckered the foolish\n\nbreasts the\ndroll\nmouth\nwilted\n\nand not old,harry,a\nwoman in the crowd\nwhinnied and a man squeezing her\nwaist said\n\nthe cop ’s rung for the\nwagon but as i was\nlifting the horror\nof her toylike\n\nhead and vainly\ntried to\ncatch on funny\nhand opening the hard great\n\neyes to noone in particular she\ngasped almost\nloudly\ni’m\n\nso\ndrunG\n\nk,dear",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
+  },
+  {
     "slug": "and-seven-poems-i",
     "title": "&:Seven Poems I",
     "first_line": "i will be",
@@ -789,17 +789,6 @@
     "txt_url": "https://cummings.ee/book/and/poem/portraits-ii.txt"
   },
   {
-    "slug": "portraits-iii",
-    "title": "Portraits III",
-    "first_line": "ta",
-    "book_slug": "and",
-    "book_title": "&",
-    "text": "ta\nppin\ng\ntoe\n\nhip\npopot\namus Back\n\ngen\nteel-ly\nlugu-\nbri ous\n\n                 eyes\nLOOPTHELOOP\n\nas\n\nfathandsbangrag",
-    "html_url": "https://cummings.ee/book/and/poem/portraits-iii/",
-    "json_url": "https://cummings.ee/book/and/poem/portraits-iii.json",
-    "txt_url": "https://cummings.ee/book/and/poem/portraits-iii.txt"
-  },
-  {
     "slug": "portraits-iv",
     "title": "Portraits IV",
     "first_line": "the waddling",
@@ -809,6 +798,17 @@
     "html_url": "https://cummings.ee/book/and/poem/portraits-iv/",
     "json_url": "https://cummings.ee/book/and/poem/portraits-iv.json",
     "txt_url": "https://cummings.ee/book/and/poem/portraits-iv.txt"
+  },
+  {
+    "slug": "portraits-iii",
+    "title": "Portraits III",
+    "first_line": "ta",
+    "book_slug": "and",
+    "book_title": "&",
+    "text": "ta\nppin\ng\ntoe\n\nhip\npopot\namus Back\n\ngen\nteel-ly\nlugu-\nbri ous\n\n                 eyes\nLOOPTHELOOP\n\nas\n\nfathandsbangrag",
+    "html_url": "https://cummings.ee/book/and/poem/portraits-iii/",
+    "json_url": "https://cummings.ee/book/and/poem/portraits-iii.json",
+    "txt_url": "https://cummings.ee/book/and/poem/portraits-iii.txt"
   },
   {
     "slug": "portraits-v",
@@ -1009,6 +1009,17 @@
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xix.txt"
   },
   {
+    "slug": "sonnets-actualities-xvi",
+    "title": "Sonnets—Actualities XVI",
+    "first_line": "a blue woman with sticking out breasts hanging",
+    "book_slug": "and",
+    "book_title": "&",
+    "text": "               a blue woman with sticking out breasts hanging\nclothes.   On the line, not so old\nfor the mother of twelve undershirts(we are told\nby is it Bishop Taylor who need hanging\n\nthat marriage is a sure cure for masturbation).\n\n                    A dirty wind,twitches the,clothes which are clean\n—this is twilight,\n                 a little puppy hopping between\n\nskipping\n         children\n                 (It is the consummation\nof day,the hour)she says to me you big fool\nshe says i says to her i says Sally\ni says\n       the\n\n          mmmoon,begins to,drool\n\nsoftly,in the hot alley,\n\na nigger’s voice feels curiously cool\n(suddenly-Lights go!on,by schedule",
+    "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xvi/",
+    "json_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xvi.json",
+    "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xvi.txt"
+  },
+  {
     "slug": "sonnets-actualities-xvii",
     "title": "Sonnets—Actualities XVII",
     "first_line": "(let us tremble)a personal radiance sits",
@@ -1174,17 +1185,6 @@
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-vii.txt"
   },
   {
-    "slug": "sonnets-realities-viii",
-    "title": "Sonnets—Realities VIII",
-    "first_line": "her careful distinct sex whose sharp lips comb",
-    "book_slug": "and",
-    "book_title": "&",
-    "text": "her careful distinct sex whose sharp lips comb\n\nmy mumbling gropeofstrength(staggered by the lug\nof love)\n        sincerely greets,with an occult shrug\nasking Through her Muteness will slowly roam\nmy dumbNess?\n\n             her other,wet,warm\n\nlips limp,across my brusing smile;\nas rapidly upon the jiggled norm\n\nof agony my grunting eyes pin tailored flames\nHer being at this instant commits\n\nas impenetrable transparency.\nthe harsh erecting breasts and uttering tits\npunish my hug\n              presto!\n\n                      the bright rile\nof jovial hair extremely frames\n\nthe face in a hoop of grim ecstasy",
-    "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-viii/",
-    "json_url": "https://cummings.ee/book/and/poem/sonnets-realities-viii.json",
-    "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-viii.txt"
-  },
-  {
     "slug": "sonnets-realities-x",
     "title": "Sonnets—Realities X",
     "first_line": "nearer:breath of my breath:take not thy tingling",
@@ -1196,15 +1196,15 @@
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-x.txt"
   },
   {
-    "slug": "sonnets-realities-xi",
-    "title": "Sonnets—Realities XI",
-    "first_line": "god pity me whom(god distinctly has)",
+    "slug": "sonnets-realities-viii",
+    "title": "Sonnets—Realities VIII",
+    "first_line": "her careful distinct sex whose sharp lips comb",
     "book_slug": "and",
     "book_title": "&",
-    "text": "god pity me whom(god distinctly has)\nthe weightless svelte drifting sexual feather\nof your shall i say body?follows\ntruly through a dribbling moan of jazz\n\nwhose arched occasional steep youth swallows\ncurvingly the keenness of my hips;\nor,your first twitch of crisp boy flesh dips\nmy height in a firm fragile stinging weather,\n\n(breathless with sharp necessary lips)kid\n\nfemale cracksman of the nifty,ruffian-rogue,\nlaughing body with wise breasts half-grown,\nlisping flesh quick to thread the fattish drone\nof I Want a Doll,\n                  wispish-agile feet with slid\nsteps parting the tousle of saxophonic brogue.",
-    "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xi/",
-    "json_url": "https://cummings.ee/book/and/poem/sonnets-realities-xi.json",
-    "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-xi.txt"
+    "text": "her careful distinct sex whose sharp lips comb\n\nmy mumbling gropeofstrength(staggered by the lug\nof love)\n        sincerely greets,with an occult shrug\nasking Through her Muteness will slowly roam\nmy dumbNess?\n\n             her other,wet,warm\n\nlips limp,across my brusing smile;\nas rapidly upon the jiggled norm\n\nof agony my grunting eyes pin tailored flames\nHer being at this instant commits\n\nas impenetrable transparency.\nthe harsh erecting breasts and uttering tits\npunish my hug\n              presto!\n\n                      the bright rile\nof jovial hair extremely frames\n\nthe face in a hoop of grim ecstasy",
+    "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-viii/",
+    "json_url": "https://cummings.ee/book/and/poem/sonnets-realities-viii.json",
+    "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-viii.txt"
   },
   {
     "slug": "sonnets-realities-xii",
@@ -1216,6 +1216,17 @@
     "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xii/",
     "json_url": "https://cummings.ee/book/and/poem/sonnets-realities-xii.json",
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-xii.txt"
+  },
+  {
+    "slug": "sonnets-realities-xi",
+    "title": "Sonnets—Realities XI",
+    "first_line": "god pity me whom(god distinctly has)",
+    "book_slug": "and",
+    "book_title": "&",
+    "text": "god pity me whom(god distinctly has)\nthe weightless svelte drifting sexual feather\nof your shall i say body?follows\ntruly through a dribbling moan of jazz\n\nwhose arched occasional steep youth swallows\ncurvingly the keenness of my hips;\nor,your first twitch of crisp boy flesh dips\nmy height in a firm fragile stinging weather,\n\n(breathless with sharp necessary lips)kid\n\nfemale cracksman of the nifty,ruffian-rogue,\nlaughing body with wise breasts half-grown,\nlisping flesh quick to thread the fattish drone\nof I Want a Doll,\n                  wispish-agile feet with slid\nsteps parting the tousle of saxophonic brogue.",
+    "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xi/",
+    "json_url": "https://cummings.ee/book/and/poem/sonnets-realities-xi.json",
+    "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-xi.txt"
   },
   {
     "slug": "sonnets-realities-xiii",
@@ -1295,17 +1306,6 @@
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-xviii.txt"
   },
   {
-    "slug": "sonnets-realities-xx",
-    "title": "Sonnets—Realities XX",
-    "first_line": "Dick Mid’s large bluish face without eyebrows",
-    "book_slug": "and",
-    "book_title": "&",
-    "text": "Dick Mid’s large bluish face without eyebrows\n\nsits in the kitchen nights and chews a two-bit\ncigar\n      waiting for the bulls to pull his joint.\nJimmie was a dude.   Dark hair and nice hands.\n\nwith a little eye that rolled and made its point\n\nJimmie’s sister worked for Dick.   And had some rows\nover percent.   The gang got shot up twice,it\noperated in the hundred ands\n\nAll the chips would kid Jimmie to give them a kiss\nbut Jimmie lived regular. stewed three times a week.\nand slept twice a week with a big toothless girl\nin Yonkers.\n           Dick Mid’s green large three teeth leak\n\nsmoke:remembering,two pink big lips curl....\n\nhow Jimmie was framed and got his",
-    "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xx/",
-    "json_url": "https://cummings.ee/book/and/poem/sonnets-realities-xx.json",
-    "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-xx.txt"
-  },
-  {
     "slug": "sonnets-realities-xxi",
     "title": "Sonnets—Realities XXI",
     "first_line": "twentyseven bums give a prostitute the once",
@@ -1315,6 +1315,17 @@
     "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xxi/",
     "json_url": "https://cummings.ee/book/and/poem/sonnets-realities-xxi.json",
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-xxi.txt"
+  },
+  {
+    "slug": "sonnets-realities-xx",
+    "title": "Sonnets—Realities XX",
+    "first_line": "Dick Mid’s large bluish face without eyebrows",
+    "book_slug": "and",
+    "book_title": "&",
+    "text": "Dick Mid’s large bluish face without eyebrows\n\nsits in the kitchen nights and chews a two-bit\ncigar\n      waiting for the bulls to pull his joint.\nJimmie was a dude.   Dark hair and nice hands.\n\nwith a little eye that rolled and made its point\n\nJimmie’s sister worked for Dick.   And had some rows\nover percent.   The gang got shot up twice,it\noperated in the hundred ands\n\nAll the chips would kid Jimmie to give them a kiss\nbut Jimmie lived regular. stewed three times a week.\nand slept twice a week with a big toothless girl\nin Yonkers.\n           Dick Mid’s green large three teeth leak\n\nsmoke:remembering,two pink big lips curl....\n\nhow Jimmie was framed and got his",
+    "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xx/",
+    "json_url": "https://cummings.ee/book/and/poem/sonnets-realities-xx.json",
+    "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-xx.txt"
   },
   {
     "slug": "sonnets-realities-xxii",
@@ -1757,17 +1768,6 @@
     "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xiv.txt"
   },
   {
-    "slug": "sonnets-xvi",
-    "title": "Sonnets XVI",
-    "first_line": "by god i want above fourteenth",
-    "book_slug": "xli-poems",
-    "book_title": "XLI Poems",
-    "text": "by god i want above fourteenth\n\nfifth’s deep purring biceps,the mystic screetch\nof Broadway,the trivial stink of rich\n\nfrail firm asinine life\n                        (i pant\n\nfor what’s below.      the singer.      Wall.      i want\nthe perpendicular lips the insane teeth\nthe vertical grin\n\n                  give me the Square in spring,\nthe little barbarous Greenwich perfumed fake\n\nAnd most,the futile fooling labyrinth\nwhere noisy colors stroll....and the Baboon\n\nsniggering insipidities while.  i sit,sipping\nsingular anisettes as.   One opaque\nbig girl jiggles thickly hips to the kanoon\n\nbut Hassan chuckles seeing the Greeks breathe)",
-    "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xvi/",
-    "json_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xvi.json",
-    "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xvi.txt"
-  },
-  {
     "slug": "sonnets-xv",
     "title": "Sonnets XV",
     "first_line": "a fragrant sag of fruit distinctly grouped.",
@@ -1777,5 +1777,16 @@
     "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xv/",
     "json_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xv.json",
     "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xv.txt"
+  },
+  {
+    "slug": "sonnets-xvi",
+    "title": "Sonnets XVI",
+    "first_line": "by god i want above fourteenth",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "by god i want above fourteenth\n\nfifth’s deep purring biceps,the mystic screetch\nof Broadway,the trivial stink of rich\n\nfrail firm asinine life\n                        (i pant\n\nfor what’s below.      the singer.      Wall.      i want\nthe perpendicular lips the insane teeth\nthe vertical grin\n\n                  give me the Square in spring,\nthe little barbarous Greenwich perfumed fake\n\nAnd most,the futile fooling labyrinth\nwhere noisy colors stroll....and the Baboon\n\nsniggering insipidities while.  i sit,sipping\nsingular anisettes as.   One opaque\nbig girl jiggles thickly hips to the kanoon\n\nbut Hassan chuckles seeing the Greeks breathe)",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xvi/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xvi.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xvi.txt"
   }
 ]
