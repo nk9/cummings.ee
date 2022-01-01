@@ -32,9 +32,9 @@
   {
     "slug": "is-5",
     "title": "is 5",
-    "description": "Published in 1926 by Boni & Liveright, this book will enter the public domain in 2022. Until then, it remains protected by copyright and cannot be republished here.",
+    "description": "Published in 1926 by Boni & Liveright, this book entered the public domain in 2022.",
     "year": 1926,
-    "public_domain": false,
+    "public_domain": true,
     "html_url": "https://cummings.ee/book/is-5/",
     "json_url": "https://cummings.ee/book/is-5.json"
   },
